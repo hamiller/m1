@@ -1,0 +1,4 @@
+zum compile mit GTK:
+
+valac --pkg gtk+-3.0 --pkg gee-1.0 MyProggi.vala
+ 
